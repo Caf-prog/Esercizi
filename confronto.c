@@ -20,8 +20,9 @@ int main()
 
     if (n2 > max) {
         max = n2;
+    }
 
-    } if (n3 > max) {
+    if (n3 > max) {
         max = n3;
     }
 
@@ -30,8 +31,9 @@ int main()
 
     if (n2 < min) {
         min = n2;
+    }
 
-    } if (n3 < min) {
+    if (n3 < min) {
         min = n3;
     }
 
