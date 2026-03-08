@@ -1,6 +1,9 @@
 // Programma che continua a chiedere all'utente di inserire un numero pari finchè l'utente non inserisce un numero divisibile per 2
 
+#include <stdio.h>
+
 int main ()
+
 {
 	int numero;
 
